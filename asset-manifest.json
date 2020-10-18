@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/dopaminestore.github.io/static/css/main.80f77e77.chunk.css",
+    "main.js": "/dopaminestore.github.io/static/js/main.23651ed1.chunk.js",
+    "main.js.map": "/dopaminestore.github.io/static/js/main.23651ed1.chunk.js.map",
+    "runtime-main.js": "/dopaminestore.github.io/static/js/runtime-main.d9378747.js",
+    "runtime-main.js.map": "/dopaminestore.github.io/static/js/runtime-main.d9378747.js.map",
+    "static/js/2.9355d199.chunk.js": "/dopaminestore.github.io/static/js/2.9355d199.chunk.js",
+    "static/js/2.9355d199.chunk.js.map": "/dopaminestore.github.io/static/js/2.9355d199.chunk.js.map",
+    "index.html": "/dopaminestore.github.io/index.html",
+    "precache-manifest.2e7c1f3755cc5f002d28b2e379e233f0.js": "/dopaminestore.github.io/precache-manifest.2e7c1f3755cc5f002d28b2e379e233f0.js",
+    "service-worker.js": "/dopaminestore.github.io/service-worker.js",
+    "static/css/main.80f77e77.chunk.css.map": "/dopaminestore.github.io/static/css/main.80f77e77.chunk.css.map",
+    "static/js/2.9355d199.chunk.js.LICENSE.txt": "/dopaminestore.github.io/static/js/2.9355d199.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/dopaminestore.github.io/static/media/rocket.c5d89628.gif",
+    "static/media/logo.svg": "/dopaminestore.github.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9378747.js",
+    "static/js/2.9355d199.chunk.js",
+    "static/css/main.80f77e77.chunk.css",
+    "static/js/main.23651ed1.chunk.js"
+  ]
+}
